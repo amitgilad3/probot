@@ -57,7 +57,7 @@
     "eventsource": "^2.0.2",
     "express": "^4.17.1",
     "express-handlebars": "^6.0.3",
-    "ioredis": "^4.27.8",
+    "ioredis": "^4.28.5",
     "js-yaml": "^3.14.1",
     "lru-cache": "^6.0.0",
     "octokit-auth-probot": "^1.2.2",
